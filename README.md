@@ -5,7 +5,7 @@
 ![E-commerce Cart Page](https://github.com/AvichalDwivedi/E-commerce-Cart/blob/adf780698bf3b0612312923b403b4b15c72a580f/Product.png)
 
 
-#🎯 Features
+##🎯 Features
 
 ✅ Beautiful UI - Dark theme with a modern and elegant look ✨
 
@@ -20,7 +20,7 @@
 ✅ Vanilla JavaScript - No frameworks, just clean & simple JS ⚡
 
 
-#🛠️ Tech Stack
+##🛠️ Tech Stack
 
 🔹 HTML5 - Structured layout and content 🏗️
 
@@ -29,7 +29,7 @@
 🔹 JavaScript (Vanilla JS) - Handles cart logic dynamically ⚡
 
 
-#🚀 Getting Started
+##🚀 Getting Started
 
 Follow these steps to clone, run, and modify the project locally:
 
@@ -46,7 +46,7 @@ Follow these steps to clone, run, and modify the project locally:
   🎉 You’re all set! Start adding products to the cart and experience the smooth UI!
 
 
-#📂 Folder Structure
+##📂 Folder Structure
 
 E-commerce-Cart-Page/
 
@@ -60,7 +60,7 @@ E-commerce-Cart-Page/
 
 └── README.md         # Project documentation
 
-#📌 Future Improvements
+##📌 Future Improvements
 
 🚀 Local Storage Support - Save cart items even after page reload
 
@@ -71,7 +71,7 @@ E-commerce-Cart-Page/
 🚀 Better Animations - Enhance UX with smooth transitions
 
 
-#🤝 Contribution Guidelines
+##🤝 Contribution Guidelines
 
 Want to improve this project? Follow these steps:
 
