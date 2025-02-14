@@ -1,6 +1,8 @@
 # 🛒 E-commerce Cart Page
 🚀 A sleek and modern E-commerce cart page built using HTML, CSS, and JavaScript! This project features a fully functional shopping cart where users can add and remove products dynamically.
 
+![E-commerce Cart Page](https://raw.githubusercontent.com/username/repository/main/assets/Product.png)
+
 
 #🎯 Features
 ✅ Beautiful UI - Dark theme with a modern and elegant look ✨
