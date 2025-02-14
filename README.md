@@ -2,10 +2,14 @@
 
 🚀 A sleek and modern E-commerce cart page built using HTML, CSS, and JavaScript! This project features a fully functional shopping cart where users can add and remove products dynamically.
 
+
 ![E-commerce Cart Page](https://github.com/AvichalDwivedi/E-commerce-Cart/blob/adf780698bf3b0612312923b403b4b15c72a580f/Product.png)
 
 
+
 <strong><bold>🎯Features<bold></strong>
+
+
 
 ✅ Beautiful UI - Dark theme with a modern and elegant look ✨
 
@@ -20,7 +24,10 @@
 ✅ Vanilla JavaScript - No frameworks, just clean & simple JS ⚡
 
 
+
 <strong>🛠️ Tech Stack</strong>
+
+
 
 🔹 HTML5 - Structured layout and content 🏗️
 
@@ -29,13 +36,16 @@
 🔹 JavaScript (Vanilla JS) - Handles cart logic dynamically ⚡
 
 
+
 <strong>🚀 Getting Started</strong>
+
+
 
 Follow these steps to clone, run, and modify the project locally:
 
 1️⃣ Clone the Repository
 
-  git clone https://github.com/AvichalDwivedi/E-commerce-Cart-Page.git
+  git clone https://github.com/AvichalDwivedi/E-commerce-Cart.git
   
 2️⃣ Navigate to the Project Folder
 
@@ -46,7 +56,10 @@ Follow these steps to clone, run, and modify the project locally:
   🎉 You’re all set! Start adding products to the cart and experience the smooth UI!
 
 
+
 <strong>📂 Folder Structure</strong>
+
+
 
 E-commerce-Cart-Page/
 
@@ -60,7 +73,11 @@ E-commerce-Cart-Page/
 
 └── README.md         # Project documentation
 
+
+
 <strong>📌 Future Improvements </strong>
+
+
 
 🚀 Local Storage Support - Save cart items even after page reload
 
@@ -72,6 +89,8 @@ E-commerce-Cart-Page/
 
 
 <strong>🤝 Contribution Guidelines <strong>
+
+
 
 Want to improve this project? Follow these steps:
 
